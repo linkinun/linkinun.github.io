@@ -6,7 +6,24 @@
     <description>Recent content in 心得 on 菜鳥工程師&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 16 Apr 2020 21:30:00 +0800</lastBuildDate><atom:link href="https://linkinun.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 May 2022 13:47:00 +0800</lastBuildDate><atom:link href="https://linkinun.github.io/categories/%E5%BF%83%E5%BE%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>初次架站碰到的各種狀況</title>
+      <link>https://linkinun.github.io/blog/post-2/</link>
+      <pubDate>Tue, 10 May 2022 13:47:00 +0800</pubDate>
+      
+      <guid>https://linkinun.github.io/blog/post-2/</guid>
+      <description>第一次上傳hugo程式碼錯誤
+變成github接收不良
+產生了一個超級排版無極簡約醜到炸的網址
+為了重用把課程全部全新看&amp;amp;重新操作一次
+再把github的repository刪掉
+終於產生出主題套件後的網站
+學習寫程式碼套件真心不容易
+之後要花更多時間和心力在產出
+加油</description>
+    </item>
+    
     <item>
       <title>Linkin的第一篇文章</title>
       <link>https://linkinun.github.io/blog/post-1/</link>
